@@ -1,0 +1,3 @@
+/home/maiconda/CLionProjects/pilhaC/cmake-build-debug/CMakeFiles/pilhaC.dir
+/home/maiconda/CLionProjects/pilhaC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/maiconda/CLionProjects/pilhaC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
